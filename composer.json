@@ -1,0 +1,7 @@
+{
+    "name": "serhiyosetskiy/emoji-picker",
+    "type": "package",
+    "license": "MIT",
+    "version": "1.1.4",
+    "minimum-stability": "dev"
+}
